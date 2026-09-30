@@ -42,8 +42,15 @@ This is a simple command-line program for a cafe. It shows a menu of food and dr
 
 ## Screenshots
 
-<img width="361" height="656" alt="image" src="https://github.com/user-attachments/assets/c09b16e6-fe72-49b3-b83c-263afb69ae75" />
+MENU:
+<img width="988" height="620" alt="im1" src="https://github.com/user-attachments/assets/56f86e1e-ec78-4846-aee3-88eff58a736d" />
 
-<img width="372" height="744" alt="image" src="https://github.com/user-attachments/assets/0e11e251-398b-436e-874c-38c7672a5f6f" />
+Add & Remove Items:
+<img width="990" height="610" alt="im2" src="https://github.com/user-attachments/assets/0ad2a53b-cd40-4c58-9145-39e8405174d5" />
 
+New orders/Generate Bill:
+<img width="985" height="606" alt="im3" src="https://github.com/user-attachments/assets/20f87ee8-73ec-451d-9bea-2344d5f5630e" />
 
+Bill & Summary:
+<img width="990" height="603" alt="im4" src="https://github.com/user-attachments/assets/476e19f7-22e9-48e5-a210-c14d40466f97" />
+<img width="987" height="148" alt="im5" src="https://github.com/user-attachments/assets/031ed28b-5898-4418-b4f4-acfb46926eca" />
