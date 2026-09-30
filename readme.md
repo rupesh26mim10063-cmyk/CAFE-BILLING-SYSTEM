@@ -42,6 +42,8 @@ This is a simple command-line program for a cafe. It shows a menu of food and dr
 
 ## Screenshots
 
+<img width="361" height="656" alt="image" src="https://github.com/user-attachments/assets/c09b16e6-fe72-49b3-b83c-263afb69ae75" />
+
 <img width="372" height="744" alt="image" src="https://github.com/user-attachments/assets/0e11e251-398b-436e-874c-38c7672a5f6f" />
-<img width="372" height="744" alt="image" src="https://github.com/user-attachments/assets/90e7793b-81f3-4aef-8be0-dfbaaa851fad" />
+
 
