@@ -1,3 +1,4 @@
+
 # Cafe Billing System
 
 ## Overview
@@ -38,3 +39,9 @@ This is a simple command-line program for a cafe. It shows a menu of food and dr
 - The GST is 5% exactly of the subtotal
    Total = Subtotal + GST Tax
 5. Run it again, do not put in any orders, type 16 to see how it handles an empty order.
+
+## Screenshots
+
+<img width="372" height="744" alt="image" src="https://github.com/user-attachments/assets/0e11e251-398b-436e-874c-38c7672a5f6f" />
+<img width="372" height="744" alt="image" src="https://github.com/user-attachments/assets/90e7793b-81f3-4aef-8be0-dfbaaa851fad" />
+
